@@ -1,7 +1,7 @@
 ![Project Screenshot](./Assets/coding_coffee.jpg)
 
 
-### Hi there 👋, thanks for stopping by!
+### Hi there 👋, thank you for stopping by!
 
 🔭 I’m currently working on learning new languages to add as many tools to my programming toolbox as possible. 🌱 I’m currently learning TypeScript, MySQL, and React.
 
